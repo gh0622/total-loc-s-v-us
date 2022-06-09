@@ -1,9 +1,9 @@
 {
-  "name": "good-s-v",
-  "description": "for goog s-v",
+  "name": "good-s-v-us",
+  "description": "for goog s-v-us",
   "env": {
      "ENCRYPT": {
-      "description": "for good s-v",
+      "description": "for good s-v-us",
       "value": "chacha20-ietf-poly1305"
     },
      "PASSWORD": {
@@ -12,17 +12,17 @@
     },
 
      "V2_Path": {
-      "description": "for good s-v",
+      "description": "for good s-v-us",
       "generator": "secret"
     },
 
      "AppName": {
-      "description": "for good s-v",
+      "description": "for good s-v-us",
       "value": "no"
     },
 
     "QR_Path": {
-       "description": "for good s-v",
+       "description": "for good s-v-us",
        "value": "/qr"
      }
   },
