@@ -1,0 +1,32 @@
+{
+  "name": "good-s-v",
+  "description": "for goog s-v",
+  "env": {
+     "ENCRYPT": {
+      "description": "for good s-v",
+      "value": "chacha20-ietf-poly1305"
+    },
+     "PASSWORD": {
+      "description": "password",
+      "value": "password"
+    },
+
+     "V2_Path": {
+      "description": "for good s-v",
+      "generator": "secret"
+    },
+
+     "AppName": {
+      "description": "for good s-v",
+      "value": "no"
+    },
+
+    "QR_Path": {
+       "description": "for good s-v",
+       "value": "/qr"
+     }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
